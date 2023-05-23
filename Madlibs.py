@@ -37,5 +37,3 @@ if __name__ == '__main__':
     main()
 
 
-#Inspeard by  12 Beginner Python Projects - Coding Course 
-# Link for the video (https://www.youtube.com/watch?v=8ext9G7xspg&ab_channel=freeCodeCamp.org)
